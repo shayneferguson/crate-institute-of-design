@@ -1,61 +1,41 @@
-**Studio Positioning**  
+**The Crate Institute of Design**  
   
-**The Crate Studio**  
+The Crate Institute of Design is a multidisciplinary design studio.  
+The Crate Institute of Design is a multidisciplinary design studio.  
   
-**Introduction**  
+We help organizations, products, and ideas communicate with clarity through identity, digital experiences, visual systems, and creative strategy.  
   
-The Studio is the applied practice of The Crate Institute of Design.  
+What makes The Crate different is not what we make.  
+What makes The Crate different is not what we make.  
   
-Where the Institute studies design, the Studio uses design.  
+It is how we think.  
   
-Where the Institute documents systems, the Studio builds them.  
+Our work is shaped by a deep practice of collecting, studying, and connecting ideas.  
+Our work is shaped by a deep practice of collecting, studying, and connecting ideas.  
   
-Where the Institute preserves knowledge, the Studio transforms knowledge into practical outcomes.  
-Where the Institute preserves knowledge, the Studio transforms knowledge into practical outcomes.  
+We draw inspiration from design history, typography, photography, music culture, industrial design, architecture, technology, publishing, and everyday objects that are often overlooked.  
+We draw inspiration from design history, typography, photography, music culture, industrial design, architecture, technology, publishing, and everyday objects that are often overlooked.  
   
-The Studio exists to help organizations communicate clearly, build meaningful identities, and create coherent experiences.  
+Research is not the product.  
   
-Its work is informed by research, observation, systems thinking, and a deep appreciation for the history of design.  
-Its work is informed by research, observation, systems thinking, and a deep appreciation for the history of design.  
+Research is the process.  
+Research is the process.  
   
-⸻  
+Collections are not the destination.  
+Collections are not the destination.  
   
-**Positioning Statement**  
+Collections are the fuel.  
+Collections are the fuel.  
   
-The Crate Studio is a research-driven design practice that helps organizations build clear, enduring, and culturally relevant visual systems.  
+The Institute exists to support the Studio.  
   
-The Studio approaches design as an act of understanding before execution.  
-The Studio approaches design as an act of understanding before execution.  
+Its archives, field notes, investigations, and collections provide a framework for observation, discovery, and creative exploration.  
   
-Research precedes recommendation.  
+This perspective allows us to approach every project with curiosity, context, and a broader understanding of how people connect with ideas.  
   
-Observation precedes strategy.  
+The result is work that feels thoughtful, enduring, and culturally aware.  
+The result is work that feels thoughtful, enduring, and culturally aware.  
   
-Systems precede aesthetics.  
-Systems precede aesthetics.  
+The Crate Institute of Design is a studio first.  
   
-⸻  
-  
-**What Makes The Studio Different**  
-  
-The Studio does not begin with trends.  
-The Studio does not begin with trends.  
-  
-It begins with investigation.  
-It begins with investigation.  
-  
-Every project is treated as a research initiative.  
-Every project is treated as a research initiative.  
-  
-The objective is not merely to create visual assets.  
-The objective is not merely to create visual assets.  
-  
-The objective is to understand the conditions that will make those assets effective.  
-  
-⸻  
-  
-**Core Belief**  
-  
-Better understanding leads to better design.  
-  
-The Studio exists to close the gap between observation and execution.  
+Everything else exists in service of the work.  
