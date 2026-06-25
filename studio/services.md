@@ -3,9 +3,7 @@
 **Overview**  
   
 The Studio provides design, research, and systems-based consulting services.  
-The Studio provides design, research, and systems-based consulting services.  
   
-Services are organized around understanding, communication, and implementation.  
 Services are organized around understanding, communication, and implementation.  
   
 ⸻  
@@ -13,9 +11,7 @@ Services are organized around understanding, communication, and implementation.
 **Identity Systems**  
   
 Development of visual identities that support long-term organizational clarity.  
-Development of visual identities that support long-term organizational clarity.  
   
-Examples:  
 Examples:  
   
 * Identity Design  
@@ -29,9 +25,7 @@ Examples:
 **Digital Experiences**  
   
 Design and development of digital communication systems.  
-Design and development of digital communication systems.  
   
-Examples:  
 Examples:  
   
 * Websites  
@@ -59,9 +53,7 @@ Examples:
 **Publications & Documentation**  
   
 Creation of materials intended to organize and communicate information.  
-Creation of materials intended to organize and communicate information.  
   
-Examples:  
 Examples:  
   
 * Reports  
@@ -75,9 +67,7 @@ Examples:
 **Design Systems**  
   
 Development of repeatable frameworks that improve consistency and scalability.  
-Development of repeatable frameworks that improve consistency and scalability.  
   
-Examples:  
 Examples:  
   
 * Component Libraries  

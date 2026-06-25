@@ -5,7 +5,6 @@
 The Studio views client work as a form of applied research.  
   
 Each project presents an opportunity to study communication, systems, behavior, and design in practice.  
-Each project presents an opportunity to study communication, systems, behavior, and design in practice.  
   
 ⸻  
   
@@ -22,7 +21,6 @@ The objective is to preserve knowledge generated through the work.
 **Mutual Benefit**  
   
 Clients receive thoughtful design solutions.  
-Clients receive thoughtful design solutions.  
   
 The Institute gains a deeper understanding of how design functions in the world.  
   
@@ -33,9 +31,7 @@ This relationship strengthens both the Studio and the Archive.
 **Closing Statement**  
   
 The Studio exists to apply the principles of The Crate Institute of Design to real-world challenges.  
-The Studio exists to apply the principles of The Crate Institute of Design to real-world challenges.  
   
-Research informs the work.  
 Research informs the work.  
   
 The work informs future research.  

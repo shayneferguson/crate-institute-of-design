@@ -5,15 +5,11 @@
 **Introduction**  
   
 The Institute maintains a series of collections dedicated to the study of design, communication, culture, technology, and everyday artifacts.  
-The Institute maintains a series of collections dedicated to the study of design, communication, culture, technology, and everyday artifacts.  
   
-Collections are not isolated departments.  
 Collections are not isolated departments.  
   
 They are interconnected areas of inquiry.  
-They are interconnected areas of inquiry.  
   
-Artifacts may belong to multiple collections when appropriate.  
 Artifacts may belong to multiple collections when appropriate.  
   
 The purpose of the collection system is to support research and discovery.  
@@ -25,9 +21,7 @@ The purpose of the collection system is to support research and discovery.
 **Typography Collection**  
   
 The Typography Collection documents the history, practice, and application of type.  
-The Typography Collection documents the history, practice, and application of type.  
   
-Areas of interest include:  
 Areas of interest include:  
   
 * Type specimens  
@@ -80,7 +74,6 @@ Areas of study include:
 * Record stores  
   
 The collection recognizes recorded music as a significant influence on visual culture.  
-The collection recognizes recorded music as a significant influence on visual culture.  
   
 ⸻  
   
@@ -88,7 +81,6 @@ The collection recognizes recorded music as a significant influence on visual cu
   
 **Skate Culture Collection**  
   
-The Skate Culture Collection documents the visual systems and artifacts of skateboarding culture.  
 The Skate Culture Collection documents the visual systems and artifacts of skateboarding culture.  
   
 Examples include:  
@@ -110,9 +102,7 @@ The collection studies skateboarding as a unique intersection of design, youth c
 **Industrial Design Collection**  
   
 The Industrial Design Collection focuses on products, tools, and manufactured objects.  
-The Industrial Design Collection focuses on products, tools, and manufactured objects.  
   
-Areas of study include:  
 Areas of study include:  
   
 * Consumer products  
@@ -123,7 +113,6 @@ Areas of study include:
 * Product systems  
   
 The collection investigates how physical objects shape everyday experiences.  
-The collection investigates how physical objects shape everyday experiences.  
   
 ⸻  
   
@@ -132,9 +121,7 @@ The collection investigates how physical objects shape everyday experiences.
 **Packaging Collection**  
   
 The Packaging Collection examines the design of containers, labels, and retail communication systems.  
-The Packaging Collection examines the design of containers, labels, and retail communication systems.  
   
-Examples include:  
 Examples include:  
   
 * Product packaging  
@@ -144,7 +131,6 @@ Examples include:
 * Consumer goods  
   
 Packaging is studied as a combination of communication, manufacturing, and user experience.  
-Packaging is studied as a combination of communication, manufacturing, and user experience.  
   
 ⸻  
   
@@ -152,7 +138,6 @@ Packaging is studied as a combination of communication, manufacturing, and user 
   
 **Signage & Wayfinding Collection**  
   
-The Signage Collection documents systems that help people navigate environments.  
 The Signage Collection documents systems that help people navigate environments.  
   
 Areas include:  
@@ -164,7 +149,6 @@ Areas include:
 * Civic communication  
   
 The collection studies how information functions at scale.  
-The collection studies how information functions at scale.  
   
 ⸻  
   
@@ -174,7 +158,6 @@ The collection studies how information functions at scale.
   
 The Digital Products Collection documents interfaces, software, websites, and digital systems.  
   
-Areas of interest include:  
 Areas of interest include:  
   
 * User interfaces  
@@ -193,9 +176,7 @@ The collection investigates how design functions within digital environments.
 **Photography Collection**  
   
 The Photography Collection examines photography as documentation, communication, and design.  
-The Photography Collection examines photography as documentation, communication, and design.  
   
-Areas include:  
 Areas include:  
   
 * Documentary photography  
@@ -204,7 +185,6 @@ Areas include:
 * Architectural photography  
 * Visual archives  
   
-Photography is treated as both evidence and creative practice.  
 Photography is treated as both evidence and creative practice.  
   
 ⸻  
@@ -224,7 +204,6 @@ Examples include:
 * Public-sector design systems  
   
 The collection focuses on long-term visual consistency and organizational communication.  
-The collection focuses on long-term visual consistency and organizational communication.  
   
 ⸻  
   
@@ -232,7 +211,6 @@ The collection focuses on long-term visual consistency and organizational commun
   
 **Transportation Systems Collection**  
   
-The Transportation Systems Collection documents design within transportation networks.  
 The Transportation Systems Collection documents design within transportation networks.  
   
 Examples include:  
@@ -253,7 +231,6 @@ The collection studies how design supports movement through complex environments
   
 The Archive Collection contains materials documenting the activities of the Institute itself.  
   
-Examples include:  
 Examples include:  
   
 * Field Notes  
@@ -278,13 +255,11 @@ A record sleeve may belong to:
 * PACK  
   
 A transit map may belong to:  
-A transit map may belong to:  
   
 * SIGN  
 * TRANS  
 * TYPO  
   
-A skateboard graphic may belong to:  
 A skateboard graphic may belong to:  
   
 * SKATE  
@@ -300,13 +275,11 @@ Cross-disciplinary connections often reveal important insights.
 **Future Collections**  
   
 The collection framework remains open.  
-The collection framework remains open.  
   
 New collections may be established as new areas of inquiry emerge.  
   
 The Institute accepts that design continues to evolve.  
   
-Its collections must evolve accordingly.  
 Its collections must evolve accordingly.  
   
 ⸻  
@@ -314,16 +287,13 @@ Its collections must evolve accordingly.
 **Closing Statement**  
   
 The collections of The Crate Institute of Design exist to organize knowledge without limiting discovery.  
-The collections of The Crate Institute of Design exist to organize knowledge without limiting discovery.  
   
 They provide structure for research.  
   
 Context for artifacts.  
   
 And pathways through an ever-expanding archive.  
-And pathways through an ever-expanding archive.  
   
-Each collection represents a different lens through which the designed world may be observed, documented, and understood.  
 Each collection represents a different lens through which the designed world may be observed, documented, and understood.  
   
 Together they form the foundation of the Institute’s archive.  

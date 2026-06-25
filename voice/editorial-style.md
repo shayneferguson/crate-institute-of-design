@@ -13,11 +13,9 @@ To clarify rather than impress.
 To encourage curiosity rather than certainty.  
   
 The Institute approaches writing as an extension of research.  
-The Institute approaches writing as an extension of research.  
   
 Every publication contributes to the archive.  
   
-Every document becomes part of the institutional record.  
 Every document becomes part of the institutional record.  
   
 ⸻  
@@ -27,14 +25,11 @@ Every document becomes part of the institutional record.
 Writing should help readers understand the designed world more clearly.  
   
 The purpose of communication is not promotion.  
-The purpose of communication is not promotion.  
   
-The purpose of communication is understanding.  
 The purpose of communication is understanding.  
   
 The Institute values precision, clarity, context, and evidence.  
   
-Writers should prioritize substance over performance.  
 Writers should prioritize substance over performance.  
   
 ⸻  
@@ -42,20 +37,15 @@ Writers should prioritize substance over performance.
 **Voice Characteristics**  
   
 The Institute’s voice should be:  
-The Institute’s voice should be:  
   
 **Observant**  
   
 Writing begins with careful attention.  
-Writing begins with careful attention.  
   
-Observations should be specific and grounded.  
 Observations should be specific and grounded.  
   
 Avoid vague statements.  
-Avoid vague statements.  
   
-Describe what is present.  
 Describe what is present.  
   
 ⸻  
@@ -63,12 +53,9 @@ Describe what is present.
 **Curious**  
   
 The Institute values questions.  
-The Institute values questions.  
   
 Writers should remain open to exploration and discovery.  
-Writers should remain open to exploration and discovery.  
   
-Curiosity should be visible throughout the work.  
 Curiosity should be visible throughout the work.  
   
 ⸻  
@@ -76,12 +63,9 @@ Curiosity should be visible throughout the work.
 **Knowledgeable**  
   
 Research should be evident.  
-Research should be evident.  
   
 Claims should be supported by evidence whenever possible.  
-Claims should be supported by evidence whenever possible.  
   
-Expertise should emerge naturally from the quality of the work.  
 Expertise should emerge naturally from the quality of the work.  
   
 ⸻  
@@ -89,11 +73,9 @@ Expertise should emerge naturally from the quality of the work.
 **Accessible**  
   
 Complex ideas should remain understandable.  
-Complex ideas should remain understandable.  
   
 Writing should not require specialized knowledge to be appreciated.  
   
-Clarity is preferred over jargon.  
 Clarity is preferred over jargon.  
   
 ⸻  
@@ -101,11 +83,9 @@ Clarity is preferred over jargon.
 **Measured**  
   
 The Institute avoids exaggeration.  
-The Institute avoids exaggeration.  
   
 Conclusions should reflect available evidence.  
   
-Writers should allow readers to form their own interpretations.  
 Writers should allow readers to form their own interpretations.  
   
 ⸻  
@@ -126,7 +106,6 @@ Avoid language that feels promotional or performative.
 The Institute is not attempting to sell.  
   
 It is attempting to understand.  
-It is attempting to understand.  
   
 ⸻  
   
@@ -141,7 +120,6 @@ The tone should feel:
 * Thoughtful  
 * Timeless  
   
-Readers should feel as though they are encountering material from a museum, library, archive, or research organization.  
 Readers should feel as though they are encountering material from a museum, library, archive, or research organization.  
   
 ⸻  
@@ -159,7 +137,6 @@ What is being examined?
 **Context**  
   
 Why does it exist?  
-Why does it exist?  
   
 Where does it come from?  
   
@@ -169,7 +146,6 @@ Where does it come from?
   
 How does it function?  
   
-What decisions are visible?  
 What decisions are visible?  
   
 ⸻  
@@ -183,9 +159,7 @@ What can be learned?
 **Further Questions**  
   
 What remains unknown?  
-What remains unknown?  
   
-What deserves future study?  
 What deserves future study?  
   
 ⸻  
@@ -193,13 +167,11 @@ What deserves future study?
 **Sentence Construction**  
   
 Prefer:  
-Prefer:  
   
 * Direct language  
 * Clear statements  
 * Specific observations  
   
-Avoid:  
 Avoid:  
   
 * Excessive embellishment  
@@ -215,7 +187,6 @@ Writing should feel deliberate rather than theatrical.
 Evidence should be clearly distinguished from interpretation.  
   
 Researchers should make it apparent when:  
-Researchers should make it apparent when:  
   
 * Something is observed  
 * Something is documented  
@@ -223,13 +194,11 @@ Researchers should make it apparent when:
 * Something remains uncertain  
   
 Transparency strengthens credibility.  
-Transparency strengthens credibility.  
   
 ⸻  
   
 **Object-Centered Writing**  
   
-The Institute often writes about artifacts.  
 The Institute often writes about artifacts.  
   
 When discussing objects:  
@@ -237,12 +206,9 @@ When discussing objects:
 Begin with what is observable.  
   
 Describe before interpreting.  
-Describe before interpreting.  
   
 Document before evaluating.  
-Document before evaluating.  
   
-Allow the object to reveal its significance through careful examination.  
 Allow the object to reveal its significance through careful examination.  
   
 ⸻  
@@ -250,9 +216,7 @@ Allow the object to reveal its significance through careful examination.
 **Historical Writing**  
   
 Historical writing should prioritize context over nostalgia.  
-Historical writing should prioritize context over nostalgia.  
   
-The Institute studies the past to better understand the present.  
 The Institute studies the past to better understand the present.  
   
 The purpose of historical research is understanding, not romanticization.  
@@ -262,16 +226,13 @@ The purpose of historical research is understanding, not romanticization.
 **Design Writing**  
   
 When discussing design:  
-When discussing design:  
   
-Focus on decisions.  
 Focus on decisions.  
   
 Focus on systems.  
   
 Focus on function.  
   
-Avoid reducing design to aesthetics alone.  
 Avoid reducing design to aesthetics alone.  
   
 Design should be understood as a relationship between people, objects, information, and environments.  
@@ -283,9 +244,7 @@ Design should be understood as a relationship between people, objects, informati
 Questions are encouraged throughout Institute publications.  
   
 Examples:  
-Examples:  
   
-What conditions produced this object?  
 What conditions produced this object?  
   
 What assumptions shaped this system?  
@@ -302,7 +261,6 @@ They remind readers that research remains unfinished.
   
 **Terminology**  
   
-Preferred terms:  
 Preferred terms:  
   
 * Artifact  
@@ -323,7 +281,6 @@ These terms reinforce the Institute’s role as a research organization.
   
 **Publication Types**  
   
-Different formats may vary in depth and structure.  
 Different formats may vary in depth and structure.  
   
 Examples include:  
@@ -346,25 +303,19 @@ All formats should remain consistent with the editorial principles described her
 The editorial voice of The Crate Institute of Design exists to support inquiry.  
   
 It should help readers see more clearly.  
-It should help readers see more clearly.  
   
-Observe more carefully.  
 Observe more carefully.  
   
 Question more thoughtfully.  
-Question more thoughtfully.  
   
-And understand more deeply.  
 And understand more deeply.  
   
 Writing is not treated as a promotional activity.  
   
 It is treated as a form of documentation.  
-It is treated as a form of documentation.  
   
 Every document contributes to the archive.  
   
-Every publication becomes part of the record.  
 Every publication becomes part of the record.  
   
 The work continues.  
